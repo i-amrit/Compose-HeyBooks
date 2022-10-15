@@ -23,9 +23,7 @@ Using Google books API we have designed an app that opens desired books by the s
 
 ## **Screenshots**
 ### **Light**
-<img width="200" height="433" src="./assets/images/screenshots/light/SplashActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/light/MainActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/light/MainActivity-InternetConnectivityCheck.png"> <img width="200" height="433" src="./assets/images/screenshots/light/MainActivity-EmptyTitleCheck.png">
-<img width="200" height="433" src="./assets/images/screenshots/light/BookSearchResultsActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/light/BookDetailsActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/light/BookDetailsActivity-AddedToWishlist.png"> <img width="200" height="433" src="./assets/images/screenshots/light/BookDetailsActivity-RemovedFromWishlist.png"> <img width="200" height="433" src="./assets/images/screenshots/light/WishlistActivity.png">
-<img width="200" height="433" src="./assets/images/screenshots/light/ServerErrorActivity-NoResponseFound.png">
+<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-185047_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-185051_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-185059_HeyBooks.jpg"> 
 
 ### **Dark**
 <img width="200" height="433" src="./assets/images/screenshots/dark/SplashActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity-InternetConnectivityCheck.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity-EmptyTitleCheck.png">
