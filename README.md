@@ -23,12 +23,10 @@ Using Google books API we have designed an app that opens desired books by the s
 
 ## **Screenshots**
 ### **Light**
-<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185047_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185051_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185059_HeyBooks.jpg"> 
+<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184455_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184516_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184529_HeyBooks.jpg"> 
 
 ### **Dark**
-<img width="200" height="433" src="./assets/images/screenshots/dark/SplashActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity-InternetConnectivityCheck.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity-EmptyTitleCheck.png">
-<img width="200" height="433" src="./assets/images/screenshots/dark/BookSearchResultsActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/BookDetailsActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/BookDetailsActivity-AddedToWishlist.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/BookDetailsActivity-RemovedFromWishlist.png">
-<img width="200" height="433" src="./assets/images/screenshots/dark/WishlistActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/ServerErrorActivity-NoResponseFound.png">
+<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185047_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185051_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185059_HeyBooks.jpg"> 
 
 ## **Functionality & Concepts used**
 
