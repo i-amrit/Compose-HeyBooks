@@ -23,14 +23,10 @@ Using Google books API we have designed an app that opens desired books by the s
 
 ## **Screenshots**
 ### **Light**
-<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184455_HeyBooks.jpg"> 
-<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184516_HeyBooks.jpg"> 
-<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184529_HeyBooks.jpg"> 
+<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184455_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184516_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-184529_HeyBooks.jpg"> 
 
 ### **Dark**
-<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185047_HeyBooks.jpg">
-<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185059_HeyBooks.jpg">
-<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185051_HeyBooks.jpg">  
+<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185047_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185059_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185051_HeyBooks.jpg">  
 
 ## **Functionality & Concepts used**
 
