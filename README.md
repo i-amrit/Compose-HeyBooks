@@ -38,6 +38,7 @@ The App has a very simple and interactive interface which helps the students sea
 
 
 - `Jetpack Comppose UI` : All of the functions in the app are made using Jetpack Compose, and uses Jetpack Compose UI libraries.
+- `MVVM Architecture` : MVVM simplifies the debugging process.
 - `Constraint Layout` : All of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - `Recyclerview` :  To present the list of different eBooks we used the efficient recyclerview. 
 - `Google Books API` : We are also using the Google Books API free version.
