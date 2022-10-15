@@ -23,7 +23,7 @@ Using Google books API we have designed an app that opens desired books by the s
 
 ## **Screenshots**
 ### **Light**
-<img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-185047_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-185051_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/light/Screenshot_20221015-185059_HeyBooks.jpg"> 
+<img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185047_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185051_HeyBooks.jpg"> <img width="200" height="433" src="./assets/images/screenshots/dark/Screenshot_20221015-185059_HeyBooks.jpg"> 
 
 ### **Dark**
 <img width="200" height="433" src="./assets/images/screenshots/dark/SplashActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity-InternetConnectivityCheck.png"> <img width="200" height="433" src="./assets/images/screenshots/dark/MainActivity-EmptyTitleCheck.png">
