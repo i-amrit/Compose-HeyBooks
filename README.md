@@ -36,6 +36,8 @@ Using Google books API we have designed an app that opens desired books by the s
 
 The App has a very simple and interactive interface which helps the students search their desired book and preview online. Following are few android concepts used to achieve the functionalities in app :
 
+
+- `Jetpack Comppose UI` : All of the functions in the app are made using Jetpack Compose, and uses Jetpack Compose UI libraries.
 - `Constraint Layout` : All of the activities in the app uses a flexible constraint layout, which is easy to handle for different screen sizes.
 - `Recyclerview` :  To present the list of different eBooks we used the efficient recyclerview. 
 - `Google Books API` : We are also using the Google Books API free version.
