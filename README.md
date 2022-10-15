@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/gdsc-bbsbec/GBooks/master/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"/> <br>
 
-### G-Books
 
 <p> A simple android app written in Kotlin to read books from the <a href="https://developers.google.com/books/docs/overview">Google Book Api</a>.<br></p>
 
